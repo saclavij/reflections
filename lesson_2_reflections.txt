@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a folder called .Git where the metadata is going to be stored, also the folder is going to be shown only if ls -a  is used, at the beginning has 0 commits. We need to init the repository to start keeping track of the files on the directory.
