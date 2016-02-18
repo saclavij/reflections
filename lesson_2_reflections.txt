@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git creates a folder called .Git where the metadata is going to be stored, also the folder is going to be shown only if ls -a  is used, at the beginning has 0 commits. We need to init the repository to start keeping track of the files on the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a temporary area we add the files that have been modified and we want to be commited, we add those files according with the logical changes, then it will be added to the repository when we do the next commit
+It is helpful to control what goes to the stage area and then to the repository.
