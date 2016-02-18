@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is a temporary area we add the files that have been modified and we want to be commited, we add those files according with the logical changes, then it will be added to the repository when we do the next commit
 It is helpful to control what goes to the stage area and then to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add the files that were changed to the Staging Area ever time there is a logical change, then do the commit on the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to have diffwrent versions of the programs, for example if yu are working with a new version or a diffeent language, you want to have your new versions separated from the master ( production) and work easily on the new versions. The will keep the versions separated and using labels, we can switch between versions using checkout (*)
