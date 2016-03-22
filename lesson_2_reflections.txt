@@ -9,8 +9,12 @@ It is helpful to control what goes to the stage area and then to the repository.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-Just add the files that were changed to the Staging Area ever time there is a logical change, then do the commit on the repository
+Just add the files that were changed to the Staging Area every time there is a logical change, then do the commit on the repository
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When you want to have diffwrent versions of the programs, for example if yu are working with a new version or a diffeent language, you want to have your new versions separated from the master ( production) and work easily on the new versions. The will keep the versions separated and using labels, we can switch between versions using checkout (*)
+When you want to have different versions of the programs, for example if you are working with a new version or a diffeent language, you want to have your new versions separated from the master ( production) and work easily on the new versions. They will keep the versions separated and using labels, we can switch between versions using checkout (*)
+
+How do the diagrams help you visualize the branch structure?
+It gives me an idea of the structure of the files, what different versions we have, who is working on different places, the history of the commits, and if there is any commits than doesnt belong to the master or a branch. It is not clear to me how a commit is not part of a branch or a master? how did that happen?
+
