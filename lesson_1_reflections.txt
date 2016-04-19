@@ -1,7 +1,7 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 I will have access to the previous versions of the program in case I need to change some lines of code or in case other programmer has to modify the programs.
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-I want to have control and decide when to save the commits, it is like creatimg Restoring Points on Windows.
+I want to have control and decide when to save the commits, it is like creatimg Restoring Points on Windows. Pros: I can choose what and where to commit, Cons: I can commit too frequently or I can not commit at all what it is also not good.
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 This is a very powerfull GIT's option, is like CAP, (Computer Assisted Programming), it helps to control all the functions and code that are interconnected, I am wondering is how GIT knows what parts are connected, it is automatic?, it is created on the repository?
 How can you use the commands git log and git diff to view the history of files?
