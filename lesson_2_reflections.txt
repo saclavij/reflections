@@ -18,3 +18,5 @@ When you want to have different versions of the programs, for example if you are
 How do the diagrams help you visualize the branch structure?
 It gives me an idea of the structure of the files, what different versions we have, who is working on different places, the history of the commits, and if there is any commits than doesnt belong to the master or a branch. It is not clear to me how a commit is not part of a branch or a master? how did that happen?
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merge create a unique path for the Master or (the target branch), the commits are grouped and organized by date, after we can erase the branch label that was merged to the Master or Target. We need to make sure we have active the branch where we want to merge the files. The commits from one branch are not going to match with the commits from the other branch ( parent and son) then we can shoud use git show to see the diffefences with the previous commit. We represent it in that way because the commits have a logic sequence and the graph explains that easily.
