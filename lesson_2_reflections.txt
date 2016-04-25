@@ -20,3 +20,6 @@ It gives me an idea of the structure of the files, what different versions we ha
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merge create a unique path for the Master or (the target branch), the commits are grouped and organized by date, after we can erase the branch label that was merged to the Master or Target. We need to make sure we have active the branch where we want to merge the files. The commits from one branch are not going to match with the commits from the other branch ( parent and son) then we can shoud use git show to see the diffefences with the previous commit. We represent it in that way because the commits have a logic sequence and the graph explains that easily.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: You can easily join two different parts of a program in only one part that contains both, Cons: When there is duplicate code, Git detects the conflict and the programmer needs to check both version and decides what version will stay.
