@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I would like to use a remote repository when I want to collaborate in a project with people that are phisically far way from my
+workplace. Imagine I am working in a new app and more people are in other countries or continents, they can still work on my remote
+GitHub and we have a final version we can just Pull the project to local machines.
