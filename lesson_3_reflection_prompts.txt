@@ -5,3 +5,8 @@ GitHub and we have a final version we can just Pull the project to local machine
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because I want to keep my Local Repository updated with a working version ( Production Version) and the option of automartically saving changes to my local repository could introduce some bugs or tests from other users. The Remote Repository is a good place to do tests in a collaborative environment.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks: It is used ONLY on remote repositories (GitHub) and you use them to allow other person to work in your projects without editing your work. It is like a "Branch" but only on the remote repository.
+Clones: Allow you to create a copy of the repository from the remote server using the URL or on a local machine also.
+Branches: It allows you to start creating new versions of the project without compromising the master version.
