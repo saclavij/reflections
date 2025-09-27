@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git starts tracking your project (all the files) amd keep hsitory of the changes. If you donlt init there is not repository.

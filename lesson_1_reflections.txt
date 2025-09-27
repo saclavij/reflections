@@ -1,0 +1,18 @@
+I am reviewing this class because I am goign to have a Part Time Job in Python by January 2026
+
+It is a good idea to have control of the versions in the system.
+
+How can you use the commands git log and git diff to view the history of files?
+
+With git log I can see all the commits done tho the project and with git diff I can see what was modified and where.
+
+How might using version control make you more confident to make changes that could break something?
+
+If i can eturn to a previous stage when my project was working peefectly I won't be affaid of trying other approaches to solve a problem (Risk Taker!!).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+When you've updated your document, click "Next" and we'll wrap up the lesson.
+
+I want to master Git and Github to find a position in Python programing.
+
