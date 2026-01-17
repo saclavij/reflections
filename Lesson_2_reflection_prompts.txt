@@ -17,3 +17,7 @@ If I want to experiment with a new feauture of the program without compromissing
 How do the diagrams help you visualize the branch structure?
 
 I can see easily how the branches are splited from the master, what commits belong to the master and what cimmits belong to a branch. I would like to see a command that shows all the branches from a repository.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+After merging to branches the commits include all the changes done separedtly and they are sorted by timestamp, that means one commit cold be followed by other that is not he parent, then to see the difference between the son and parent we should use the git show commit-id to see the difference, also after merging it is a good idea to erase the LABEL of the branch.
