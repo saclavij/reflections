@@ -21,3 +21,9 @@ I can see easily how the branches are splited from the master, what commits belo
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 After merging to branches the commits include all the changes done separedtly and they are sorted by timestamp, that means one commit cold be followed by other that is not he parent, then to see the difference between the son and parent we should use the git show commit-id to see the difference, also after merging it is a good idea to erase the LABEL of the branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros, it is easy to incliude code from one branch to another, the software will merge the changes faster than doing it manually.
+
+Cons: If developers are changing the same code simultaneosly then we have to check those changes manually before we actually merge. We need to decide what will be the final code that will remain at the end.
