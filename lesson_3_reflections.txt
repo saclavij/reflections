@@ -4,3 +4,8 @@ If there are people who want to collaborate with me or check my work, they can s
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I rather check the code first before making the pull becasue I am not sure if the remote code will be a good fir for my local repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used when we want to have a copy of somebody else repository and have it in Github, it will count how many collaborators have forked, also it will copy the remote name and url. Clone is when you want a copy from the Github in your local machine or even make a copy of your work in your local machine.   Branches are in your local machine and used when you want to try new features in your local machine without affecting the master (production)
+
